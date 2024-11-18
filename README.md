@@ -8,7 +8,7 @@ Aegis is a lightweight security assistant designed to help you analyze websites 
 **System Information**: Displays basic system info, including internal and external IP addresses, to give context to the checks.
 
 
-## Installation
+## Installation 
 ### Prerequisites
 Python 3.6+ is required.
 The following Python libraries need to be installed:
