@@ -2,10 +2,10 @@
 Aegis is a lightweight security assistant designed to help you analyze websites for common vulnerabilities such as SSL certificate issues, missing HTTP security headers, and potential phishing threats. This tool provides a clear and friendly user experience with step-by-step guidance and explanations for each security check. Perfect for web administrators, security enthusiasts, and anyone concerned with online safety.
 
 ## Features
-**SSL Certificate Validation**: Checks if the SSL certificate is valid and properly configured.
-**HTTP Security Headers Check**: Verifies important security headers like X-Content-Type-Options, X-Frame-Options, X-XSS-Protection, and more.
-**Phishing Detection**: Analyzes URLs for common patterns associated with phishing attacks.
-**System Information**: Displays basic system info, including internal and external IP addresses, to give context to the checks.
+```SSL Certificate Validation: Checks if the SSL certificate is valid and properly configured.`
+HTTP Security Headers Check: Verifies important security headers like X-Content-Type-Options, X-Frame-Options, X-XSS-Protection, and more.
+Phishing Detection: Analyzes URLs for common patterns associated with phishing attacks.
+System Information: Displays basic system info, including internal and external IP addresses, to give context to the checks.```
 
 
 ## Installation 
