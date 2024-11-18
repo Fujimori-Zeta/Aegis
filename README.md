@@ -43,10 +43,10 @@ After completing the checks, it will provide a report showing any detected issue
 `=================`
        `Aegis`       
   
-    `Created by Fujimori-Zeta`
+   Created by Fujimori-Zeta
 `==================`
 
-`System Information:`
+`System Information:` 
 `Your system is running Linux 5.4.0-74-generic (64bit)`
 `Hostname: my-computer`
 `Local IP Address: 192.168.1.5`
