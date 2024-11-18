@@ -40,33 +40,33 @@ Aegis will then proceed to check the website for the following:
 After completing the checks, it will provide a report showing any detected issues or confirming that the website is secure.
 #### Example output
 
-```=================
-       `Aegis`       
+**=================
+  Aegis    
   
-    `Created by Fujimori-Zeta`
-`==================`
+ Created by Fujimori-Zeta
+==================
 
-`System Information:`
-`Your system is running Linux 5.4.0-74-generic (64bit)`
-`Hostname: my-computer`
-`Local IP Address: 192.168.1.5`
-`External IP Address: 203.0.113.10`
+System Information:
+Your system is running Linux 5.4.0-74-generic (64bit)
+Hostname: my-computer
+Local IP Address: 192.168.1.5
+External IP Address: 203.0.113.10
 
-`Starting security checks for the domain: https://example.com...`
-`Don't worry, this might take a minute...`
+Starting security checks for the domain: https://example.com...
+Don't worry, this might take a minute...
 
-`SSL Certificate Check:`
-`Great! The SSL Certificate is valid and secure.`
+SSL Certificate Check:
+Great! The SSL Certificate is valid and secure.
 
-`HTTP Headers Security Check:`
-`Perfect! All security headers are properly configured.`
+HTTP Headers Security Check:
+Perfect! All security headers are properly configured.
 
-`Phishing URL Analysis:`
-`All good! No phishing indicators found in this URL.`
+Phishing URL Analysis:
+All good! No phishing indicators found in this URL.
 
-`===================================`
-`Everything looks great! No issues detected on the domain.`
-`===================================```
+===================================
+Everything looks great! No issues detected on the domain.
+===================================**
 
 ## Features & Detailed Checks
 ### SSL Certificate Check
