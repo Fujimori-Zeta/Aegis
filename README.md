@@ -40,7 +40,7 @@ Aegis will then proceed to check the website for the following:
 After completing the checks, it will provide a report showing any detected issues or confirming that the website is secure.
 #### Example output
 
-**=================
+=================
   Aegis    
   
  Created by Fujimori-Zeta
@@ -66,7 +66,7 @@ All good! No phishing indicators found in this URL.
 
 ===================================
 Everything looks great! No issues detected on the domain.
-===================================**
+===================================
 
 ## Features & Detailed Checks
 ### SSL Certificate Check
