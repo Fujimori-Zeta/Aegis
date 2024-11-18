@@ -32,7 +32,7 @@ You can install the required dependencies using pip:
 
 ### Running the Program
 To run Aegis, simply execute the Python script in your terminal. The script will guide you through a series of checks for the website you want to analyze.
-`python3 aegis.py`
+`python3 main.py`
 You will be prompted to enter a URL:
 `Enter the URL you want to check: https://example.com`
 
