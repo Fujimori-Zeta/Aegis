@@ -64,9 +64,9 @@ Perfect! All security headers are properly configured.
 Phishing URL Analysis:
 All good! No phishing indicators found in this URL.
 
-===================================
+`===================================`
 Everything looks great! No issues detected on the domain.
-===================================
+`===================================`
 
 ## Features & Detailed Checks
 ### SSL Certificate Check
